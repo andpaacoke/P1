@@ -1,0 +1,6 @@
+C:\Users\and87\AppData\Local\Temp\cc5g5JA2.o:main3.c:(.text+0x67): undefined reference to `open_practice_file'
+C:\Users\and87\AppData\Local\Temp\cc5g5JA2.o:main3.c:(.text+0x1cf): undefined reference to `prompt_user'
+C:\Users\and87\AppData\Local\Temp\cc5g5JA2.o:main3.c:(.text+0x2c8): undefined reference to `prntfunc'
+C:\Users\and87\AppData\Local\Temp\cc5g5JA2.o:main3.c:(.text+0x438): undefined reference to `regression_data'
+C:\Users\and87\AppData\Local\Temp\cc5g5JA2.o:main3.c:(.text+0x46b): undefined reference to `regression'
+collect2.exe: error: ld returned 1 exit status
